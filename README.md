@@ -1,6 +1,6 @@
 # Mobile Applications built using React Native
 
-## Food business or Food search mobile app
+## - Food business or Food search mobile app
 
 https://github.com/swapneelgosavi/food
 
@@ -8,7 +8,7 @@ https://github.com/swapneelgosavi/food
 <img src="images/foodscreen.gif"  height="600">
 </td></tr></table>
 
-## Blog writing app
+## - Blog writing app
 
 https://github.com/swapneelgosavi/blog
 
