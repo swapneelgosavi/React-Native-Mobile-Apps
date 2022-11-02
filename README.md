@@ -1,2 +1,2 @@
-# React-Native_Project_-Mobile_Apps-
-Mobile Applications build using react-native
+# Mobile Applications built using React Native
+
